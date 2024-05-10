@@ -1,4 +1,6 @@
 # settipy-pure-python
+[![Python application](https://github.com/Attumm/settipy_pure_python/actions/workflows/python-app.yml/badge.svg)](https://github.com/Attumm/settipy_pure_python/actions/workflows/python-app.yml)
+
 ## _settings should be simple, and with settipy it is._
 
 Created for working with pypy.
